@@ -29,5 +29,12 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=nikhilsingh-21&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <a href="https://leetcode.com/nikhilsingh_21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/nikhilsingh_21/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
-
+ 
