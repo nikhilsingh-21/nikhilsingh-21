@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
  ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,react,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,js,react,mysql,git,html,css" />
 </p>
 
  
